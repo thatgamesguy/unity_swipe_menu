@@ -1,4 +1,5 @@
-# unity_swipe_menu
+# Swipe Menu for Unity
+
 A swipe menu for unity. Supports desktop and mobile.
 
 Also available from the Unity asset store: https://www.assetstore.unity3d.com/#!/content/45977
