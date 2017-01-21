@@ -1,0 +1,156 @@
+\begin{theindex}
+
+  \item {Activate}
+    \subitem {Swipe\+Menu\+Audio\+Player}, \hyperpage{18}
+  \item {Activate\+Selected\+Menu\+Item}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{12}
+  \item {Animate\+To\+Target\+Item}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{12}
+
+  \indexspace
+
+  \item {Constant}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{12}
+
+  \indexspace
+
+  \item {Deactivate}
+    \subitem {Swipe\+Menu\+Audio\+Player}, \hyperpage{19}
+  \item {Demo\+Scene\+Switcher}, \hyperpage{9}
+  \item {distance\+Between\+Menus}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{13}
+  \item {distance\+Between\+Selected\+Menu\+And\+Others}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{13}
+
+  \indexspace
+
+  \item {Example\+Character\+Selector}, \hyperpage{9}
+  \item {Example\+Menu\+Audio\+Player}, \hyperpage{10}
+    \subitem {Play\+Clip}, \hyperpage{10}
+    \subitem {Stop\+Clip}, \hyperpage{11}
+
+  \indexspace
+
+  \item {flick\+Type}
+    \subitem {Swipe\+Menu\+::\+Swipe\+Handler}, \hyperpage{17}
+
+  \indexspace
+
+  \item {handle\+Flicks}
+    \subitem {Swipe\+Menu\+::\+Swipe\+Handler}, \hyperpage{17}
+  \item {handle\+Swipes}
+    \subitem {Swipe\+Menu\+::\+Swipe\+Handler}, \hyperpage{17}
+  \item {handle\+Touches}
+    \subitem {Swipe\+Menu\+::\+Touch\+Handler}, \hyperpage{19}
+  \item {Hide\+Menus}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{12}
+
+  \indexspace
+
+  \item {Inertia}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{13}
+  \item {instance}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{14}
+  \item {is\+Swiping}
+    \subitem {Swipe\+Menu\+::\+Swipe\+Handler}, \hyperpage{18}
+
+  \indexspace
+
+  \item {Lock\+To\+Closest}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{13}
+  \item {lock\+To\+Closest}
+    \subitem {Swipe\+Menu\+::\+Swipe\+Handler}, \hyperpage{17}
+
+  \indexspace
+
+  \item {Menu\+Centred}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{13}
+  \item {menu\+Item\+Angle}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{13}
+  \item {menu\+Items}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{14}
+  \item {Move\+Between\+Menus}, \hyperpage{15}
+  \item {Move\+Left\+Right\+By\+Amount}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{13}
+
+  \indexspace
+
+  \item {On\+Click}
+    \subitem {Swipe\+Menu\+::\+Menu\+Item}, \hyperpage{14}
+    \subitem {Swipe\+Menu\+::\+Sub\+Menu\+Item}, \hyperpage{16}
+  \item {On\+Other\+Menu\+Click}
+    \subitem {Swipe\+Menu\+::\+Menu\+Item}, \hyperpage{14}
+  \item {Owner\+Menu}
+    \subitem {Swipe\+Menu\+::\+Sub\+Menu\+Item}, \hyperpage{16}
+
+  \indexspace
+
+  \item {Play\+Clip}
+    \subitem {Example\+Menu\+Audio\+Player}, \hyperpage{10}
+
+  \indexspace
+
+  \item {require\+Menu\+Item\+To\+Be\+Centred\+For\+Selectiion}
+    \subitem {Swipe\+Menu\+::\+Touch\+Handler}, \hyperpage{19}
+  \item {required\+Force\+For\+Flick}
+    \subitem {Swipe\+Menu\+::\+Swipe\+Handler}, \hyperpage{17}
+
+  \indexspace
+
+  \item {Show\+Menus}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{13}
+  \item {Show\+Text\+On\+Menu\+Centred}, \hyperpage{15}
+  \item {starting\+Menu\+Item}
+    \subitem {Swipe\+Menu\+::\+Menu}, \hyperpage{14}
+  \item {Stop\+Clip}
+    \subitem {Example\+Menu\+Audio\+Player}, \hyperpage{11}
+  \item {Swipe\+Menu}, \hyperpage{7}
+  \item {Swipe\+Menu.\+Menu}, \hyperpage{11}
+  \item {Swipe\+Menu.\+Menu\+Item}, \hyperpage{14}
+  \item {Swipe\+Menu.\+Sub\+Menu\+Item}, \hyperpage{16}
+  \item {Swipe\+Menu.\+Swipe\+Handler}, \hyperpage{16}
+  \item {Swipe\+Menu.\+Touch\+Handler}, \hyperpage{19}
+  \item {Swipe\+Menu\+::\+Menu}
+    \subitem {Activate\+Selected\+Menu\+Item}, \hyperpage{12}
+    \subitem {Animate\+To\+Target\+Item}, \hyperpage{12}
+    \subitem {Constant}, \hyperpage{12}
+    \subitem {distance\+Between\+Menus}, \hyperpage{13}
+    \subitem {distance\+Between\+Selected\+Menu\+And\+Others}, 
+		\hyperpage{13}
+    \subitem {Hide\+Menus}, \hyperpage{12}
+    \subitem {Inertia}, \hyperpage{13}
+    \subitem {instance}, \hyperpage{14}
+    \subitem {Lock\+To\+Closest}, \hyperpage{13}
+    \subitem {Menu\+Centred}, \hyperpage{13}
+    \subitem {menu\+Item\+Angle}, \hyperpage{13}
+    \subitem {menu\+Items}, \hyperpage{14}
+    \subitem {Move\+Left\+Right\+By\+Amount}, \hyperpage{13}
+    \subitem {Show\+Menus}, \hyperpage{13}
+    \subitem {starting\+Menu\+Item}, \hyperpage{14}
+  \item {Swipe\+Menu\+::\+Menu\+Item}
+    \subitem {On\+Click}, \hyperpage{14}
+    \subitem {On\+Other\+Menu\+Click}, \hyperpage{14}
+  \item {Swipe\+Menu\+::\+Sub\+Menu\+Item}
+    \subitem {On\+Click}, \hyperpage{16}
+    \subitem {Owner\+Menu}, \hyperpage{16}
+  \item {Swipe\+Menu\+::\+Swipe\+Handler}
+    \subitem {flick\+Type}, \hyperpage{17}
+    \subitem {handle\+Flicks}, \hyperpage{17}
+    \subitem {handle\+Swipes}, \hyperpage{17}
+    \subitem {is\+Swiping}, \hyperpage{18}
+    \subitem {lock\+To\+Closest}, \hyperpage{17}
+    \subitem {required\+Force\+For\+Flick}, \hyperpage{17}
+  \item {Swipe\+Menu\+::\+Touch\+Handler}
+    \subitem {handle\+Touches}, \hyperpage{19}
+    \subitem {require\+Menu\+Item\+To\+Be\+Centred\+For\+Selectiion}, 
+		\hyperpage{19}
+  \item {Swipe\+Menu\+Audio\+Player}, \hyperpage{18}
+    \subitem {Activate}, \hyperpage{18}
+    \subitem {Deactivate}, \hyperpage{19}
+
+  \indexspace
+
+  \item {Update\+Menu\+Item\+On\+Click}, \hyperpage{20}
+  \item {Update\+Text\+Colour\+On\+Menu\+Click}, \hyperpage{20}
+
+\end{theindex}

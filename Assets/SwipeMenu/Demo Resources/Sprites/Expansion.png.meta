@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 26f49c2295b764965b7a3d346d2ca73d
+timeCreated: 1442134323
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Expansion_0
+    21300002: Expansion_1
+    21300004: Expansion_2
+    21300006: Expansion_3
+    21300008: Expansion_4
+    21300010: Expansion_5
+    21300012: Expansion_6
+    21300014: Expansion_7
+    21300016: Expansion_8
+    21300018: Expansion_9
+    21300020: Expansion_10
+    21300022: Expansion_11
+    21300024: Expansion_12
+    21300026: Expansion_13
+    21300028: Expansion_14
+    21300030: Expansion_15
+    21300032: Expansion_16
+    21300034: Expansion_17
+    21300036: Expansion_18
+    21300038: Expansion_19
+    21300040: Expansion_20
+    21300042: Expansion_21
+    21300044: Expansion_22
+    21300046: Expansion_23
+    21300048: Expansion_24
+    21300050: Expansion_25
+    21300052: Expansion_26
+    21300054: Expansion_27
+    21300056: Expansion_28
+    21300058: Expansion_29
+    21300060: Expansion_30
+    21300062: Expansion_31
+    21300064: Expansion_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Expansion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 104
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 88
+        width: 156
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 122
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 122
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 122
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 122
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 57
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 57
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 86
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_11
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 86
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 45
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 45
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 45
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 45
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 45
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_18
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_19
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_20
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 48
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_21
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_27
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_29
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 13
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 13
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 13
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Expansion_32
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 13
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

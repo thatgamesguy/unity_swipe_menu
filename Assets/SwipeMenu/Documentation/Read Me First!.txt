@@ -1,0 +1,18 @@
+
+
+
+
+
+
+Swipe Menu 
+1.0
+If you have any questions, or suggestions for improvements, please email robert.wells@gandhigames.co.uk.
+
+
+Quick Start
+
+Before using this asset please import iTween, which can be downloaded from https://www.assetstore.unity3d.com/en/#!/content/84
+
+Once iTween has been imported no further setup is required.
+
+Please see example scenes on how to create your own menus.

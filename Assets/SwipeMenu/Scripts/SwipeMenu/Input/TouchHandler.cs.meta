@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dc1c0e274f2fc4ed093ed8e84d2fe67c
+labels:
+- Tool
+- Touch
+- Mouse
+- Mobile
+- Android
+- Iphone
+- Ios
+timeCreated: 1441890222
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

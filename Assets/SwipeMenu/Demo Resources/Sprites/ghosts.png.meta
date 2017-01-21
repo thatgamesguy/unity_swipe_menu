@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 426a52a1a2a2f4be187d6d7b3607e056
+timeCreated: 1441974522
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghosts_0
+    21300002: ghosts_1
+    21300004: ghosts_2
+    21300006: ghosts_3
+    21300008: ghosts_4
+    21300010: ghosts_5
+    21300012: ghosts_6
+    21300014: ghosts_7
+    21300016: ghosts_8
+    21300018: ghosts_9
+    21300020: ghosts_10
+    21300022: ghosts_11
+    21300024: ghosts_12
+    21300026: ghosts_13
+    21300028: ghosts_14
+    21300030: ghosts_15
+    21300032: ghosts_16
+    21300034: ghosts_17
+    21300036: ghosts_18
+    21300038: ghosts_19
+    21300040: ghosts_20
+    21300042: ghosts_21
+    21300044: ghosts_22
+    21300046: ghosts_23
+    21300048: ghosts_24
+    21300050: ghosts_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ghosts_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 402
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 400
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 398
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 397
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 401
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 402
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 292
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 296
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 294
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 292
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 291
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 293
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 186
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 186
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 188
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 189
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 192
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_17
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 193
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 84
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 85
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 87
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 89
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 91
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 93
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 4
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghosts_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 5
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

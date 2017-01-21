@@ -1,0 +1,10 @@
+1.0.
+
+Initial Release
+
+1.1.
+- Updated to support WebGL (included define directives for input and webgl specific mouse axis retrieval)
+
+1.2.
+- Updated to Unity 5.5.x
+- Fixed bug on mobile platforms where 'Lock to Closest' would not work unless 'Handle Flicks' was enabled.

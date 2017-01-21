@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3160ba9731a344d29af7fcc2db11ebb5
+labels:
+- Menu
+- MenuItem
+- Gui
+- Ui
+timeCreated: 1441878808
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
